@@ -1,0 +1,64 @@
+{
+  "catalystStack": {
+    "registryName": {
+      "domain": "minecraft",
+      "path": "gold_block"
+    },
+    "meta": 0
+  },
+  "components": [
+      { 
+        "weight": 50,
+        "oreName": "oreIron"
+      },
+      {
+        "weight": 5,
+        "oreName": "oreCopper"
+      },
+      {
+        "weight": 2,
+        "oreName": "oreTin"
+      },
+      {
+        "weight": 20,
+        "oreName": "oreSilver"
+      },
+      {
+        "weight": 5,
+        "oreName": "oreLead"
+      },
+      {
+        "weight": 20,
+        "oreName": "oreGold"
+      },
+      {
+        "weight": 20,
+        "oreName": "oreRedstone"
+      },
+      {
+        "weight": 7,
+        "oreName": "oreDark"
+      },
+      {
+        "weight": 20,
+        "oreName": "oreLapis"
+      },
+      {
+        "weight": 10,
+        "oreName": "rockCrystal"
+      },
+      {
+        "weight": 15,
+        "oreName": "oreEmerald"
+      },
+      {
+        "weight": 25,
+        "oreName": "oreDiamond"
+      }
+  ],
+  "explosionStrength": 5.0,
+  "radius": 4,
+  "maxWeight": 199,
+  "version": 5,
+  "cost": 50000
+}

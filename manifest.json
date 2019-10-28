@@ -13,6 +13,7 @@
   "name": "ArcRequiem",
   "version": "1.0.0",
   "author": "Noobanidus",
+  "icon": "https://raw.githubusercontent.com/AranaiRa/ArcaneArchives/master/marketing/curseforge/brazier.png",
   "files": [
     {
       "projectID": 260262,
